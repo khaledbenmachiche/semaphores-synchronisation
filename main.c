@@ -103,7 +103,6 @@ int main(){
             exit(6);
         }
         if(p == 0){
-            printf("idk");
             fflush(stdout);
             char i_char[3];
             sprintf(i_char,"%d",i);
